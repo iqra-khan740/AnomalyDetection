@@ -1,0 +1,6 @@
+gradio
+ultralytics
+requests
+opencv-python
+numpy
+pillow

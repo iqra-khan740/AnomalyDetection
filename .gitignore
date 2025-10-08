@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Data / model artifacts
+*.pt
+*.pth
+*.pkl
+*.h5
+*.ckpt
+AnomalyModelfiles/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# env files
+.env
